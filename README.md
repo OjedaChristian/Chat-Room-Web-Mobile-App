@@ -6,7 +6,7 @@
 
 Está aplicación nos permite crear salas independientes con temáticas exclusivas a las que pueden acceder otros usuarios, unirse y comentar sobre dicho tema, es un pequeño proyecto enfocado a aplicar nuevos conocimientos con Python/Django enfocados a backend.
 
-En el proyecto se ha utilizado Python, con el framework Django, junto con HTML, CSS, JavaScript.
+En el proyecto se ha utilizado Python, con el framework Django, junto con HTML, CSS y JavaScript.
 <br>
 
 ## Características de la app
