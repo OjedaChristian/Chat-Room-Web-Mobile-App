@@ -24,6 +24,7 @@ En el proyecto se ha utilizado Python, con el framework Django, junto con HTML, 
 * Sistema de seguimiento de actividad (mensajes) de los usuarios en las salas.
 * Implementación de Static files (js, css, imágenes).
 * Instalación de "Templates" externas y vinculación con el backend.
+  * El theme utilizado en la app lo podemos encontrar en: https://github.com/divanov11/StudyBud/tree/master/theme
 * Adaptación de la app según el dispositivo, apto para móvil y web.
 * REST Framework - se ha creado una API básica que muestra datos de todas las salas creadas en la app, a las que podemos acceder individualmente y ver sus     propiedades.
 
